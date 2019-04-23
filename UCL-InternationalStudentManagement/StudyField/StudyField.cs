@@ -13,5 +13,10 @@ namespace StudyField
         {
             return null;
         }
+
+        public StudyField GetStudyField(int _id)
+        {
+            return null;
+        }
     }
 }
