@@ -28,3 +28,12 @@ C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManageme
 C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\obj\Debug\netcoreapp2.1\UCL-InternationalStudentManagement.dll
 C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\obj\Debug\netcoreapp2.1\UCL-InternationalStudentManagement.pdb
 C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\obj\Debug\netcoreapp2.1\UCL-InternationalStudentManagement.csproj.CopyComplete
+C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\bin\Debug\netcoreapp2.1\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.dll
+C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\bin\Debug\netcoreapp2.1\Microsoft.Xrm.Sdk.dll
+C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\bin\Debug\netcoreapp2.1\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\bin\Debug\netcoreapp2.1\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\bin\Debug\netcoreapp2.1\Microsoft.Xrm.Sdk.xml
+C:\Users\jonwe\OneDrive\Skrivebord\Repo\UCL-ISM\UCL-InternationalStudentManagement\UCL-InternationalStudentManagement\bin\Debug\netcoreapp2.1\Microsoft.Xrm.Tooling.Connector.xml

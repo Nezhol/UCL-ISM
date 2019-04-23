@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using UCL_InternationalStudentManagement.Models;
 
+using Microsoft.IdentityModel.Clients.ActiveDirectory;
+using Microsoft.Xrm.Tooling.Connector;
+using Microsoft.Xrm.Sdk;
+using Microsoft.Xrm.Sdk.Client;
+using Microsoft.Xrm.Sdk.Query;
+using System.ServiceModel;
+
 namespace UCL_InternationalStudentManagement.Controllers
 {
     public class HomeController : Controller
