@@ -1,0 +1,9 @@
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\Utilities\bin\Debug\netcoreapp2.2\Utilities.deps.json
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\Utilities\bin\Debug\netcoreapp2.2\Utilities.dll
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\Utilities\bin\Debug\netcoreapp2.2\Utilities.pdb
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\Utilities\obj\Debug\netcoreapp2.2\Utilities.csprojAssemblyReference.cache
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\Utilities\obj\Debug\netcoreapp2.2\Utilities.csproj.CoreCompileInputs.cache
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\Utilities\obj\Debug\netcoreapp2.2\Utilities.AssemblyInfoInputs.cache
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\Utilities\obj\Debug\netcoreapp2.2\Utilities.AssemblyInfo.cs
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\Utilities\obj\Debug\netcoreapp2.2\Utilities.dll
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\Utilities\obj\Debug\netcoreapp2.2\Utilities.pdb

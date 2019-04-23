@@ -1,0 +1,12 @@
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\bin\Debug\netcoreapp2.2\StudyField.deps.json
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\bin\Debug\netcoreapp2.2\StudyField.dll
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\bin\Debug\netcoreapp2.2\StudyField.pdb
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\bin\Debug\netcoreapp2.2\Utilities.dll
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\bin\Debug\netcoreapp2.2\Utilities.pdb
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\obj\Debug\netcoreapp2.2\StudyField.csprojAssemblyReference.cache
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\obj\Debug\netcoreapp2.2\StudyField.csproj.CoreCompileInputs.cache
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\obj\Debug\netcoreapp2.2\StudyField.AssemblyInfoInputs.cache
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\obj\Debug\netcoreapp2.2\StudyField.AssemblyInfo.cs
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\obj\Debug\netcoreapp2.2\StudyField.csproj.CopyComplete
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\obj\Debug\netcoreapp2.2\StudyField.dll
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyField\obj\Debug\netcoreapp2.2\StudyField.pdb

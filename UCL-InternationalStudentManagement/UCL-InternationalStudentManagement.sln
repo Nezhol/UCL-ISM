@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyField", "StudyField\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{79D71656-7C6C-4CA2-8EEF-9ED65BB919D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyFieldTest", "StudyFieldTest\StudyFieldTest.csproj", "{34FC60DA-ACFE-42FE-8AF0-82746B459772}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{79D71656-7C6C-4CA2-8EEF-9ED65BB919D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79D71656-7C6C-4CA2-8EEF-9ED65BB919D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79D71656-7C6C-4CA2-8EEF-9ED65BB919D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FC60DA-ACFE-42FE-8AF0-82746B459772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FC60DA-ACFE-42FE-8AF0-82746B459772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FC60DA-ACFE-42FE-8AF0-82746B459772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FC60DA-ACFE-42FE-8AF0-82746B459772}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

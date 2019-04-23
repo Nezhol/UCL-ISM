@@ -1,0 +1,14 @@
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\bin\Debug\netcoreapp2.2\StudyFieldTest.deps.json
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\bin\Debug\netcoreapp2.2\StudyFieldTest.runtimeconfig.json
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\bin\Debug\netcoreapp2.2\StudyFieldTest.runtimeconfig.dev.json
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\bin\Debug\netcoreapp2.2\StudyFieldTest.dll
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\bin\Debug\netcoreapp2.2\StudyFieldTest.pdb
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\obj\Debug\netcoreapp2.2\StudyFieldTest.csprojAssemblyReference.cache
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\obj\Debug\netcoreapp2.2\StudyFieldTest.csproj.CoreCompileInputs.cache
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\obj\Debug\netcoreapp2.2\StudyFieldTest.AssemblyInfoInputs.cache
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\obj\Debug\netcoreapp2.2\StudyFieldTest.AssemblyInfo.cs
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\obj\Debug\netcoreapp2.2\StudyFieldTest.dll
+D:\Pba\UCL-ISM\UCL-InternationalStudentManagement\StudyFieldTest\obj\Debug\netcoreapp2.2\StudyFieldTest.pdb
