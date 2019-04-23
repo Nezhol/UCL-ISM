@@ -18,11 +18,13 @@ namespace UCL_InternationalStudentManagement.Models
 
         public List<StudyField> GetAllStudyFields()
         {
+            //Lav en Dal eller noget
             return null;
         }
 
         public StudyField GetStudyField(int _id)
         {
+            //Lav en Dal eller noget
             return null;
         }
     }
