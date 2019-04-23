@@ -13,7 +13,7 @@ namespace UCL_InternationalStudentManagement.Models
         //Creates and passes new field study name to data access layer to create new entity in database
         public void CreateNewStudyField(string _fieldName)
         {
-            //Missing class for connect to database
+            //Missing class for connect to database, maybe we will decide on something ...?
         }
     }
 }
