@@ -8,5 +8,10 @@ namespace StudyField
     {
         public int Id { get; set; }
         public string FieldName { get; set; }
+
+        public List<StudyField> GetAllStudyFields()
+        {
+            return null;
+        }
     }
 }
