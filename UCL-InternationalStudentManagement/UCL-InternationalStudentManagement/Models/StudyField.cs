@@ -15,10 +15,5 @@ namespace UCL_InternationalStudentManagement.Models
         {
             //Missing class for connect to database, maybe we will decide on something ...?
         }
-
-        public StudyField ChangeNameOfStudyField(int Id)
-        {
-            return null;
-        }
     }
 }
