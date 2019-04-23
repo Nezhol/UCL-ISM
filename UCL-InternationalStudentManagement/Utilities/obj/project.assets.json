@@ -207,16 +207,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "Utilities/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "compile": {
-          "bin/placeholder/Utilities.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Utilities.dll": {}
-        }
       }
     }
   },
@@ -689,17 +679,11 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "Utilities/1.0.0": {
-      "type": "project",
-      "path": "../Utilities/Utilities.csproj",
-      "msbuildProject": "../Utilities/Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Microsoft.NETCore.App >= 2.2.0",
-      "Utilities >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
   "packageFolders": {
@@ -709,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pba\\UCL-ISM\\UCL-InternationalStudentManagement\\StudyField\\StudyField.csproj",
-      "projectName": "StudyField",
-      "projectPath": "D:\\Pba\\UCL-ISM\\UCL-InternationalStudentManagement\\StudyField\\StudyField.csproj",
+      "projectUniqueName": "D:\\Pba\\UCL-ISM\\UCL-InternationalStudentManagement\\Utilities\\Utilities.csproj",
+      "projectName": "Utilities",
+      "projectPath": "D:\\Pba\\UCL-ISM\\UCL-InternationalStudentManagement\\Utilities\\Utilities.csproj",
       "packagesPath": "C:\\Users\\Zander\\.nuget\\packages\\",
-      "outputPath": "D:\\Pba\\UCL-ISM\\UCL-InternationalStudentManagement\\StudyField\\obj\\",
+      "outputPath": "D:\\Pba\\UCL-ISM\\UCL-InternationalStudentManagement\\Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -731,11 +715,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {
-            "D:\\Pba\\UCL-ISM\\UCL-InternationalStudentManagement\\Utilities\\Utilities.csproj": {
-              "projectPath": "D:\\Pba\\UCL-ISM\\UCL-InternationalStudentManagement\\Utilities\\Utilities.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
