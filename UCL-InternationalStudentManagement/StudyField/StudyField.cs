@@ -25,13 +25,20 @@ namespace StudyField
         //Creates and passes new field study name to data access layer to create new entity in database
         public void CreateNewStudyField(string _fieldName)
         {
-            //Remove any whitespaces
-            textUtilities = new Utilities.TextUtilities();
-            var text = textUtilities.RemoveWhiteSpacesFromStartToEnd(_fieldName);
-            
-            //Get the DAL
-            db = new StudyFieldDB();
-            db.CreateNewStudyField(text);
+            if (!string.IsNullOrEmpty(_fieldName))
+            {
+                //Remove any whitespaces
+                textUtilities = new Utilities.TextUtilities();
+                var text = textUtilities.RemoveWhiteSpacesFromStartToEnd(_fieldName);
+
+                //Get the DAL
+                db = new StudyFieldDB();
+                db.CreateNewStudyField(text);
+            }
+            else
+            {
+                throw new Exception("Study name was not in correct format.");
+            }
         }
     }
 }
